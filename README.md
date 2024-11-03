@@ -8,3 +8,4 @@
 ### Ask me about tech, dancing and swimming
 
 ## Connect with me:
+<a href="https://t.me/@juliaaris">Telegram</a>
