@@ -1,20 +1,10 @@
 ## Hi there 👋
-
-<!--
-**JuliaAris/JuliaAris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm Julia and I'm frontend developer from Russia
 
 <img src="https://raw.githubusercontent.com/JuliaAris/JuliaAris/refs/heads/main/giphy.webp" width="200">
+
+### I'm currently working on JavaScript, Sass, Html
+### I'm currently learning React and JS improvements
+### Ask me about tech, dancing and swimming
+
+## Connect with me:
