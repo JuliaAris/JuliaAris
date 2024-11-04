@@ -12,3 +12,4 @@
 
 <a href="mailto:julia.aris@yandex.ru">E-mail</a>
 
+<a href="https://vk.com/danceprotez">My motivational blog</a>
